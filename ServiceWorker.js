@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-Elestrals-DeckBuilder-StandAlone-1.0";
+const cacheName = "TheLawTCG-ClashNet-1.001";
 const contentToCache = [
     "Build/ClashNet.loader.js",
     "Build/ClashNet.framework.js",

@@ -1,6 +1,6 @@
 {
-    "name": "Elestrals-DeckBuilder-StandAlone",
-    "short_name": "Elestrals-DeckBuilder-StandAlone",
+    "name": "ClashNet",
+    "short_name": "ClashNet",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#231F20",
